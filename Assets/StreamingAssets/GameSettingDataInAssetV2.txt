@@ -1,0 +1,1 @@
+{"channel":"empty","gameType":"bnz","domainType":"release","httpRoot":"https://clxy001.oss-cn-hangzhou.aliyuncs.com/bnz","testHttpRoot":"http://127.0.0.1:8887","csRoot":"csh7d.demigame.com","resdir":"release","gamename":"梦仙境_开发版","configSuffix":"bnz","logType":2,"platformType":1,"showUpdateLog":false,"updateMode":1,"qrpc":false}
