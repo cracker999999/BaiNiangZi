@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2697201399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba7b55867d0f42f10034d93586385b74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8557b6e2b17bbeed131c1b7287a93be6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/BossWarShotHud.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refavataratlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refwaratlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/font/myfont

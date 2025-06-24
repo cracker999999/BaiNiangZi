@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 996196905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4264068ca3a61f3b05e3907025c16050
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/WorldCupGuess/h7_shijiebei_bg02.png
+Dependencies: []

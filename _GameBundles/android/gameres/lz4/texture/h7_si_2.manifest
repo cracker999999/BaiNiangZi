@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1638518945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5168772562ce03c6d1f811c2065b012c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_si_2.png
+Dependencies: []

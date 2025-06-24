@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2631012307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c0085d833edf56ce90e5c7437cc6dad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Yibao/h7_lingxixin_1.png
+Dependencies: []

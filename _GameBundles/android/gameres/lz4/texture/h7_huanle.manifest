@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2736929235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7a02c03c7884b4b64a1aadd566b31d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Activity/h7_huanle.png
+Dependencies: []

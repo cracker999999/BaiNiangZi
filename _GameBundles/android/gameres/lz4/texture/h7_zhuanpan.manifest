@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3519063087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fa401fbbe5194a4d143ca460ffed074
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_zhuanpan.png
+Dependencies: []

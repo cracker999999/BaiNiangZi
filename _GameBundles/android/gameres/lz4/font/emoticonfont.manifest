@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 566731991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b14f2c11be668c7afb5f64d5bfa2dc9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1d077acbeebd130ba8848669bc8a2fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/MyFont/EmoticonFont.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/font/emoticonatlas

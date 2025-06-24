@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2542023741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28e56793fe1cb498fce7a2acabcad151
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/AttCard/h7_renwubeijing.png
+Dependencies: []

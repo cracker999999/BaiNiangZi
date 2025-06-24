@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 977525876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8aa2cfb34cba1d880042e19de2ecd47e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b063f9eb611fc6e05af4e7f375eef78b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/JiaoBiao/JiaoBiao.prefab
+Dependencies: []

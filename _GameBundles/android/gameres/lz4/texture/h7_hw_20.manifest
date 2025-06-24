@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2565539410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95912b3e41b4eee892582e55676765c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_hw_20.png
+Dependencies: []

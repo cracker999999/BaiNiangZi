@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1042453240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 402b7232c11768e61a399b4b768d7104
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_hw_22.png
+Dependencies: []

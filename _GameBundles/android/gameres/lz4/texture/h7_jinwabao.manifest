@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4155395172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13ca6081349d5a7791040a1541399c99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Treasure/h7_jinwabao.png
+Dependencies: []

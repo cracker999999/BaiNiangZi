@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3128204160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3739955205381a7e95b50b3d977c6aec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/WorldCupGuess/h7_shijiebei_banner.png
+Dependencies: []

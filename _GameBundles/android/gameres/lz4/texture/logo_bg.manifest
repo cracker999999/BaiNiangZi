@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1120034993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7242310b4a6a23addcae1f0620270be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Login/logo_bg.png
+Dependencies: []

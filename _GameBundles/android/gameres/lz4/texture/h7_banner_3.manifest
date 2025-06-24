@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1442550943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 310a20c348ec1e9244b725f3e07d605b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/TextureUncompress/Welfare/h7_banner_3.png
+Dependencies: []

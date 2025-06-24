@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2688132030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14db3eb59c50af3f9f3ec36cf34ba3ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Map/h7_xiaodituyuansu_1.png
+Dependencies: []

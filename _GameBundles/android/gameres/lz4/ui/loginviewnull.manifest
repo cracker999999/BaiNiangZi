@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 230332012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c61a0339c39ffa0b3d762044c0c61d78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Login/LoginViewNull.prefab
+Dependencies: []

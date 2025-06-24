@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1572485076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67e988cfe18606ae10830e204a11a24b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Jjc/h7_shengli_2.png
+Dependencies: []

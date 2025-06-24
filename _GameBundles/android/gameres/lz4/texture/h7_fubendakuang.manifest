@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2765018918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d6facc0bc8d1ebb26546088f1d177c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Dungeon/h7_fubendakuang.png
+Dependencies: []

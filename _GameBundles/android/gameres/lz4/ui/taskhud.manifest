@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3362867316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7859d72f6b9edf6e8379c975632e400a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f66cd2d4b65758856791c34e629005ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/TaskHud.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/reftaskatlas

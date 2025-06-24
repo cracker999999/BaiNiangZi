@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2066509949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c06afad0920155380a27e1dfd8974b23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b384b2d2061bcd6b1b734e9d07e69f14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/RefSchoolAtlas.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/schoolatlas1

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 378377706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 605e7e7f77f03be20f83955d08e23b07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Currency/h7_jin_6.png
+Dependencies: []

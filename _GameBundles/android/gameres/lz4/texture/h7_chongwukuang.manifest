@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1549404478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11342216c3cdf99333d7d6cbb0638011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Guide/h7_chongwukuang.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3393469861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67c6a51763e7640d7d9a294c18923484
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/SchoolMatch/h7_daojishidi.png
+Dependencies: []

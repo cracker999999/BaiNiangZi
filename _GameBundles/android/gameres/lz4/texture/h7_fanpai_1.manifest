@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1104674302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5828780f6a4a28636521f18decb022d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/TextureSpecial/h7_fanpai_1.png
+Dependencies: []

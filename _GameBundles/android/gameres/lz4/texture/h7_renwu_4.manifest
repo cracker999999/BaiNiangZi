@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4057689129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fe172a830883219866d649cc9cb9708
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_renwu_4.png
+Dependencies: []

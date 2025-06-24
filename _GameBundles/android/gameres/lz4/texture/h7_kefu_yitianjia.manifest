@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2900384657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86ad1f52d759d37b3fa993605cbbc9f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_kefu_yitianjia.png
+Dependencies: []

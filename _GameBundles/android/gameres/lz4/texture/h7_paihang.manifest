@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 100029518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 848a5667b07ba2dbd2d01072fc27c184
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Jjc/h7_paihang.png
+Dependencies: []

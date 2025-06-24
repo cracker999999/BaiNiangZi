@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2617499574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d80b2edffd508a2a09c8985e0603ea2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/h7_luopan.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 225543188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c522d633f5ac7729accaaec434477285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/hehua_bg.png
+Dependencies: []

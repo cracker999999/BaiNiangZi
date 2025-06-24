@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 300713613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 798808b310e12d5d07d3b2af1c8f7883
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 966720af9803b90af65cdbdd941fc841
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Misc/BehindBlack.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/ui_behind_layer

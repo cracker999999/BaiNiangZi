@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 295693361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75e17eeff41fd06bed0c11a1521361f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_bei_4.png
+Dependencies: []

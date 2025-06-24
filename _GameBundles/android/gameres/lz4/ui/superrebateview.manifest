@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 2889531677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93c367702b479b0bf3177af1395e7e00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8665d2eebbd83a6cf71442fd13de6e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66ca9c6e5cbd4544ab22016a27d817a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Superrebate/SuperRebateView.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refcommonbgatlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/reflotteryatlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refwelfareatlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/font/myfont
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_chaojifanli_1
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_chaojifanli_2
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_choujianganniu
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_01
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_03
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_04
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_05
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_06
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_gold_07
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_zhuanpan

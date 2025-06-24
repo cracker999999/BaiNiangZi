@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1539412676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65441e4d0577f970149165132300bea4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_huawen3.png
+Dependencies: []

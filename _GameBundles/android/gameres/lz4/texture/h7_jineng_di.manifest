@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1907172945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6efe7474921d8f2d858d357c6dab02f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/TextureSpecial/h7_jineng_di.png
+Dependencies: []

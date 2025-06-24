@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1138601370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0b85a3bbfdab7b6ce0292a15c27e019
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_yaorixingjun.png
+Dependencies: []

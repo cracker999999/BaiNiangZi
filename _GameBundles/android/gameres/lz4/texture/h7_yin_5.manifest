@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4128460397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d784142953c8ccee0e843b07fdefd5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Currency/h7_yin_5.png
+Dependencies: []

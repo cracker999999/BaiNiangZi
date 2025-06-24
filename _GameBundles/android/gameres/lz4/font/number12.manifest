@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3007316131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e7b39c789a6f6539b92c417c7ca6d52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb30940860e0c587deb7c776fde5009d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/Number/Number12/Number12.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader

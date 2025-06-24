@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 652672252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1651e5558a80078b100d63655d49846b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_renwu.png
+Dependencies: []

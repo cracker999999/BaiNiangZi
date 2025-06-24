@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 571254400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e397b566bd85b3c238d924027fdbc60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Arena/h7_nv_3.png
+Dependencies: []

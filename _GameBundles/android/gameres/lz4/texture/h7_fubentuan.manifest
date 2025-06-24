@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 651430294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5026a18589d3d0458344dbe85bfcba06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Dungeon/h7_fubentuan.png
+Dependencies: []

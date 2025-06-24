@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2130513724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e4e5f05d1084d64691f8cbe857a517f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/DuanWu/duanwuhuodong_77.png
+Dependencies: []

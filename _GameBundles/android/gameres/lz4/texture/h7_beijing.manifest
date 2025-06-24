@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1429647601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed60b028118c39e4f87ef4947df538e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/AttCard/h7_beijing.png
+Dependencies: []

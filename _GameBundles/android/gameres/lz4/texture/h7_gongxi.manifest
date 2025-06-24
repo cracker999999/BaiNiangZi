@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 910103092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a31c78ce8af56a08df5e65f8cc0df3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_gongxi.png
+- Assets/GameRes/Texture/Activity/h7_gongxi.png
+Dependencies: []

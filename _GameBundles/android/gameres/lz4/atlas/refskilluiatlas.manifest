@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1902214312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9779274c001a03b1450421b662b27d0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb8d7cb8180d3d222f36c6a9bb869d1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/StaticAtlas/SkillUIAtlas/SkillAtlas_Alpha_x2.png
+- Assets/GameRes/Atlas/StaticAtlas/SkillUIAtlas/SkillAtlas_RGB_x2.png
+- Assets/GameRes/Atlas/RefSkillUIAtlas.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader

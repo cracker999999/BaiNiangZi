@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 433274077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da6f53345c3c47b8ce9bed6e921f9b67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/fmt9.png
+Dependencies: []

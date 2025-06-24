@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2698844620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78f9691b2d77ed3cb643292213a494f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_nu_5.png
+Dependencies: []

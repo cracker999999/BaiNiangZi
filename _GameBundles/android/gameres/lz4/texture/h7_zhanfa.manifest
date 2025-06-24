@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 512172719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b851f373de8231282b3593efc17edce9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Skill/h7_zhanfa.png
+Dependencies: []

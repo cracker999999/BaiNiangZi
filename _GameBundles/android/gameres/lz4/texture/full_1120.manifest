@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 63362857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a72a0f1a0e11baec96984721e862383
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Photo/full_1120.png
+Dependencies: []

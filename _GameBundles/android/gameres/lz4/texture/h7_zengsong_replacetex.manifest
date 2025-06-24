@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3025530275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e921faa01b3b695a4767d1212c6fe479
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ReplaceTex/h7_zengsong_ReplaceTex.png
+Dependencies: []

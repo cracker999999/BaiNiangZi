@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2488485653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6957568979e2c553aad3daa4d7cbc587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_7ri.png
+Dependencies: []

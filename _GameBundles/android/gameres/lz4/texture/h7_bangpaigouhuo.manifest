@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3919196256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd421054e282ca0c3b060bcfe0df80a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_bangpaigouhuo.png
+Dependencies: []

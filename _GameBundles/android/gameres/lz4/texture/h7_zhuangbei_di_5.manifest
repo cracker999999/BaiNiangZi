@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3841437927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 558f18221cc026e8b71640aa4b0aba47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Equipment/h7_zhuangbei_di_5.png
+Dependencies: []

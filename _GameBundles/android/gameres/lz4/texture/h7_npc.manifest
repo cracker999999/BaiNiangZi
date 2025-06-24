@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1152328774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ab9a9e2b79c0028b7319c6857e38f80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Task/h7_npc.png
+Dependencies: []

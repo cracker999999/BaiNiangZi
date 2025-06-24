@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2813686349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb58defa9bb0012ac04e38e62d8e9e31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb30940860e0c587deb7c776fde5009d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/Number/Number4/Number4.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader

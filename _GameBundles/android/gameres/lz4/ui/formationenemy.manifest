@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 717835926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8491ba022a74a62c6fbe71eade671417
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cabdba1f47cfa18d989066811dbb64a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/War/FormationEnemy.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader

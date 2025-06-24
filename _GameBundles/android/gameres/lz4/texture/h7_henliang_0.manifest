@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3104991223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76c5c2bc4964e2c29f8f0c72d63fac94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_henliang_0.png
+Dependencies: []

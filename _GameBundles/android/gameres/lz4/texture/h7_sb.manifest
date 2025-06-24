@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3828418517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab23b0ac9f53554732d254403d2e0ea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/JieBai/h7_sb.png
+Dependencies: []

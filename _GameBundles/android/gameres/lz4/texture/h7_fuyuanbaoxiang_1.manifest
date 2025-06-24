@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1673310420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72a5610d750b0b41e86271c94679c54f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Fuyuan/h7_fuyuanbaoxiang_1.png
+Dependencies: []

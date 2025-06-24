@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1090765184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5d377b524e4fd0f734317e1aa7ae10d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_biaoqian_1.png
+Dependencies: []

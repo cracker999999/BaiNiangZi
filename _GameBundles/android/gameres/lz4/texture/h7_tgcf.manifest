@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 743556645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08703548c5151adb1036c26818d7abaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_tgcf.png
+Dependencies: []

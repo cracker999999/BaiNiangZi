@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 157644306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62b58678f197ca8f129d7374c86e750b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Activity/h7_zhufu_di.png
+Dependencies: []

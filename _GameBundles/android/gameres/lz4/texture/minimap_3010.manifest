@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3528941225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cae9ee0cd3a367d0efaf11d5bf9c426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Minimap/minimap_3010.jpg
+Dependencies: []

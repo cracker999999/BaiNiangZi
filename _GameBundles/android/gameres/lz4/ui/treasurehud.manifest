@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2159716219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cac75364f4ee3106076b95b5d8b42fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e5e6fdb9a4ee05bf1d125319e3fd986
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/TreasureHud.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/texture/h7_luopan

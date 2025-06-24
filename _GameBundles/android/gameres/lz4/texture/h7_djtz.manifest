@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2410884135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b6d822075deb36fdef693d3f133c14a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_djtz.png
+Dependencies: []

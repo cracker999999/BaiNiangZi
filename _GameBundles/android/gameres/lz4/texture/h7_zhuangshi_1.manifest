@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2613074017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4fca3c7084b9cc072f6e05c81a0cdc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_zhuangshi_1.png
+- Assets/GameRes/Texture/Activity/h7_zhuangshi_1.png
+Dependencies: []

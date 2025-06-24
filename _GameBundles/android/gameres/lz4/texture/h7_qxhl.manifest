@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 355876105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3da5e6e38655c023fd65e4a23d46a318
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_qxhl.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 186977147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd007e8c5d49ae6781bf1e42d381915b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Org/h7_zhudian_1.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3385732216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f7aa9e17a7123aee4a5b750d1074f16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3805e0cc87ababdaa288bee0aa3c1ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/MyFont/MyFont.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/font/emoticonfont
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/font/dfpyuanw5

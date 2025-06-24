@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1937800246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03bae30493a1593b04f81c5b65a7b001
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_hehua.png
+Dependencies: []

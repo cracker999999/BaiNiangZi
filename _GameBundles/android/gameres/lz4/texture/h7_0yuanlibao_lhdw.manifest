@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3477101318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a722487a7d6f4da6054962444e467665
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ZeroBuy/h7_0yuanlibao_lhdw.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3940180274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e808b2d677ccc2fe13792b0cc4f21f5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_hsqf_1.png
+Dependencies: []

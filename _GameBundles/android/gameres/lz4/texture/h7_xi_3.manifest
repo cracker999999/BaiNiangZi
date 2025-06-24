@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3191855571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16ec65a737f11d764a0afa16a9f05479
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_xi_3.png
+Dependencies: []

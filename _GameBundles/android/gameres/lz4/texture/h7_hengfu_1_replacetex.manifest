@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2992650876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bec0b0420fc0e1eb3f48a04db95d40fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ReplaceTex/h7_hengfu_1_ReplaceTex.png
+Dependencies: []

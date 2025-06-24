@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3401591203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23ffc699b15004cd2427fb84345bd8a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_dizuo_big.png
+Dependencies: []

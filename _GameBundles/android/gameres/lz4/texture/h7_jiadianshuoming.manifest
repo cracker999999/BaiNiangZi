@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2768067326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53e15e38f555e23e6fa998325b682bef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Summon/h7_jiadianshuoming.png
+Dependencies: []

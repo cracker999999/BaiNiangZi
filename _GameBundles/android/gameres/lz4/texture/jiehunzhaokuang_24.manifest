@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2211689655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b24fa18748466bec40a1d479758982dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Marry/jiehunzhaokuang_24.png
+Dependencies: []

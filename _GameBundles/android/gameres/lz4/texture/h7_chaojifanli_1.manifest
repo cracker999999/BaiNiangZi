@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 93144109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c948d1a241bb61c2ef142b11de74d16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_chaojifanli_1.png
+Dependencies: []

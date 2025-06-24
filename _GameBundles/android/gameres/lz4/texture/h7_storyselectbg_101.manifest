@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 145262499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaae124c337305042ac9f46012d29812
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Task/h7_storyselectbg_101.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1202622209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d97bb0aa5d13691cfcd5e0ee632cc0f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_nryg.png
+Dependencies: []

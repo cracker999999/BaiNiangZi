@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 315858964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41178deecc53957a8a8c31597628c22a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14ec0679412f0df6e64d1885ad1c2eb5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8077b76001d36d489868d20d28bddb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/UIEffect/redDot.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lz4/atlas/refcommonatlas

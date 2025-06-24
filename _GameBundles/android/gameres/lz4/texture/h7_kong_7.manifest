@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4055149983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a909632dda36295e3a2a9e585f7deac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_kong_7.png
+Dependencies: []

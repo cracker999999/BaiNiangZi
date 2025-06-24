@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3824547953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c966ff391cef24096cac67983f722fb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_banner_1.png
+Dependencies: []

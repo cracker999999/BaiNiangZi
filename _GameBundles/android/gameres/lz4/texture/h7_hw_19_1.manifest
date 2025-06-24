@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3051619702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e525e22a61bc2fd9236717568462f3b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_hw_19_1.png
+Dependencies: []

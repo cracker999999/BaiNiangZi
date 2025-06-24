@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1578692323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f351859f1fc94c3db980c994675bcffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/ui_behind_layer.png
+Dependencies: []

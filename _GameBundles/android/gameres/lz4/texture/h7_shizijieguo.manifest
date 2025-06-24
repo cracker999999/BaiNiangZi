@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3073999476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f5a5a9f8fea9ab1f0092a8c397ed346
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_shizijieguo.png
+Dependencies: []
