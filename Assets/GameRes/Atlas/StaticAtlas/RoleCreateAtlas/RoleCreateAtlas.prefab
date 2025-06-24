@@ -1,0 +1,1112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000011080643928}
+  m_IsPrefabParent: 1
+--- !u!1 &1000011080643928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000012069252060}
+  - component: {fileID: 114000012192436394}
+  m_Layer: 0
+  m_Name: RoleCreateAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012069252060
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011080643928}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000012192436394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011080643928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: d569d1f893421a046aab0f8f12e90898, type: 2}
+  mSprites:
+  - name: h7_bgl_01
+    x: 291
+    y: 256
+    width: 116
+    height: 768
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 6
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_button_01
+    x: 0
+    y: 178
+    width: 248
+    height: 77
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_button_02
+    x: 889
+    y: 1
+    width: 62
+    height: 62
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_button_03
+    x: 1006
+    y: 575
+    width: 60
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_mbg_01
+    x: 0
+    y: 256
+    width: 290
+    height: 768
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_01
+    x: 918
+    y: 503
+    width: 69
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 6
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 7
+  - name: h7_menpai_02
+    x: 1322
+    y: 940
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_03
+    x: 1492
+    y: 955
+    width: 66
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 7
+  - name: h7_menpai_04
+    x: 1067
+    y: 940
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_05
+    x: 1559
+    y: 955
+    width: 66
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 7
+  - name: h7_menpai_06
+    x: 1237
+    y: 940
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_07
+    x: 1626
+    y: 955
+    width: 66
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 7
+  - name: h7_menpai_08
+    x: 1407
+    y: 940
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_09
+    x: 1760
+    y: 958
+    width: 66
+    height: 66
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 8
+    paddingRight: 10
+    paddingTop: 9
+    paddingBottom: 9
+  - name: h7_menpai_10
+    x: 1152
+    y: 940
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpai_11
+    x: 1693
+    y: 955
+    width: 66
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 7
+  - name: h7_menpai_12
+    x: 778
+    y: 4
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_1
+    x: 1827
+    y: 945
+    width: 75
+    height: 21
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 1
+  - name: h7_menpaimc_2
+    x: 1006
+    y: 503
+    width: 60
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_3
+    x: 952
+    y: 355
+    width: 45
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_4
+    x: 1006
+    y: 455
+    width: 59
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 5
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_5
+    x: 1006
+    y: 479
+    width: 59
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 4
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_6
+    x: 1006
+    y: 527
+    width: 60
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_menpaimc_7
+    x: 1006
+    y: 551
+    width: 60
+    height: 23
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_mz_01
+    x: 889
+    y: 233
+    width: 62
+    height: 167
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 2
+  - name: h7_mz_02
+    x: 918
+    y: 744
+    width: 62
+    height: 170
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_mz_03
+    x: 1006
+    y: 857
+    width: 60
+    height: 167
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 1
+    paddingBottom: 2
+  - name: h7_mz_04
+    x: 1006
+    y: 691
+    width: 60
+    height: 165
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 4
+  - name: h7_mz_05
+    x: 918
+    y: 573
+    width: 61
+    height: 170
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_mz_06
+    x: 889
+    y: 64
+    width: 60
+    height: 168
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 1
+    paddingBottom: 1
+  - name: h7_sbg_01
+    x: 889
+    y: 501
+    width: 28
+    height: 413
+    borderLeft: 14
+    borderRight: 11
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_shuruk
+    x: 408
+    y: 958
+    width: 369
+    height: 66
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_tx_01
+    x: 520
+    y: 243
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_02
+    x: 408
+    y: 360
+    width: 117
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 10
+    paddingTop: 7
+    paddingBottom: 17
+  - name: h7_tx_03
+    x: 778
+    y: 557
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_04
+    x: 526
+    y: 479
+    width: 121
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 6
+    paddingTop: 9
+    paddingBottom: 17
+  - name: h7_tx_05
+    x: 778
+    y: 908
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_06
+    x: 889
+    y: 401
+    width: 116
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 22
+    paddingBottom: 17
+  - name: h7_tx_07
+    x: 408
+    y: 243
+    width: 111
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 17
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_08
+    x: 531
+    y: 840
+    width: 126
+    height: 117
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 8
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 17
+  - name: h7_tx_09
+    x: 520
+    y: 9
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_10
+    x: 642
+    y: 594
+    width: 116
+    height: 119
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 2
+    paddingBottom: 17
+  - name: h7_tx_11
+    x: 778
+    y: 206
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_12
+    x: 643
+    y: 364
+    width: 116
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 11
+    paddingBottom: 17
+  - name: h7_tx_13
+    x: 631
+    y: 243
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_14
+    x: 525
+    y: 714
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_15
+    x: 408
+    y: 475
+    width: 117
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 11
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_16
+    x: 889
+    y: 915
+    width: 116
+    height: 109
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 12
+    paddingBottom: 17
+  - name: h7_tx_17
+    x: 778
+    y: 323
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_18
+    x: 408
+    y: 592
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_19
+    x: 631
+    y: 126
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_20
+    x: 291
+    y: 12
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_21
+    x: 408
+    y: 125
+    width: 110
+    height: 117
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 21
+    paddingBottom: 0
+  - name: h7_tx_22
+    x: 642
+    y: 714
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_23
+    x: 778
+    y: 440
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_24
+    x: 291
+    y: 134
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_25
+    x: 520
+    y: 126
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_26
+    x: 658
+    y: 836
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_27
+    x: 778
+    y: 674
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_28
+    x: 525
+    y: 592
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_29
+    x: 778
+    y: 791
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_30
+    x: 648
+    y: 476
+    width: 116
+    height: 115
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 6
+    paddingBottom: 17
+  - name: h7_tx_31
+    x: 631
+    y: 9
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_32
+    x: 408
+    y: 714
+    width: 116
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_33
+    x: 778
+    y: 89
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_34
+    x: 408
+    y: 836
+    width: 122
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 5
+    paddingTop: 0
+    paddingBottom: 17
+  - name: h7_tx_35
+    x: 408
+    y: 8
+    width: 110
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 18
+    paddingTop: 22
+    paddingBottom: 0
+  - name: h7_tx_36
+    x: 526
+    y: 360
+    width: 116
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 11
+    paddingTop: 7
+    paddingBottom: 17
+  - name: h7_xbj_01
+    x: 952
+    y: 379
+    width: 51
+    height: 21
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_xbj_02
+    x: 249
+    y: 248
+    width: 37
+    height: 7
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_xbj_03
+    x: 276
+    y: 14
+    width: 3
+    height: 163
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_xbj_04
+    x: 1006
+    y: 632
+    width: 58
+    height: 58
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_zuqun_01
+    x: 187
+    y: 3
+    width: 88
+    height: 174
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_zuqun_02
+    x: 95
+    y: 3
+    width: 91
+    height: 174
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: h7_zuqun_03
+    x: 0
+    y: 3
+    width: 94
+    height: 174
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_03
+    x: 1067
+    y: 911
+    width: 70
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_06
+    x: 1827
+    y: 996
+    width: 111
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_11
+    x: 1939
+    y: 996
+    width: 71
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_13
+    x: 1827
+    y: 967
+    width: 110
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_18
+    x: 1138
+    y: 911
+    width: 70
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menpaiwenzi_21
+    x: 1939
+    y: 967
+    width: 70
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
