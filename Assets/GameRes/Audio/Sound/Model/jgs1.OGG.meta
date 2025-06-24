@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c41266cd0a29c2744931d8a5c32c0f8d
+timeCreated: 1652880204
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/jgs1
+  assetBundleVariant: 

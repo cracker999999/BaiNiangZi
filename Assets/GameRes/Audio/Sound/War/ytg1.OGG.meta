@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 437c5a95b21e88b43b0833f58ec3fcee
+timeCreated: 1652873529
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/ytg1
+  assetBundleVariant: 

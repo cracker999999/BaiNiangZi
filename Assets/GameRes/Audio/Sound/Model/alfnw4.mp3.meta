@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ecf4dfec63c5f89418c9b11b916ae59a
+timeCreated: 1652873554
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/alfnw4
+  assetBundleVariant: 

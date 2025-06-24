@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 003d78c217d267748af467a8cc6ae40a
+timeCreated: 1652885737
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/smjs
+  assetBundleVariant: 

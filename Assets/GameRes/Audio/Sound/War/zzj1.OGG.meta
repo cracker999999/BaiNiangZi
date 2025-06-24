@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b17283e2a0af2040b47a18a2ff21900
+timeCreated: 1652873521
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/zzj1
+  assetBundleVariant: 

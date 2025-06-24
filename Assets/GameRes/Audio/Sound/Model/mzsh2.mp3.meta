@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c05708ad1b02d0d4481bb9ebb556298e
+timeCreated: 1652873548
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/mzsh2
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1573a1d2e36952345ad5f53c7b26c70c
+timeCreated: 1652873523
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: audio/bx3
+  assetBundleVariant: 
