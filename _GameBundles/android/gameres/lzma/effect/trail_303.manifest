@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4072215780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45b058f3bf9f41ccd38e486fec630647
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/trail_303.png
+- Assets/GameRes/Effect/commons_new/Textures/trail_303.tga
+Dependencies: []

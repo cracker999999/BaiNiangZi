@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3899580831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bb7c373885b028918c54eaf38b3df88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/other_403.tga
+Dependencies: []

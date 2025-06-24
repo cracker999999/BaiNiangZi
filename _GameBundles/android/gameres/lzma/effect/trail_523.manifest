@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2162983975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc25b79c0bedbd6557218b9513834dde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/trail_523.png
+- Assets/GameRes/Effect/commons_new/Textures/trail_523.png
+Dependencies: []

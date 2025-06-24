@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2882210583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3829bda48ca1b876aebb3c5973d370b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3ecb88add77f6c0c16b16c939d8d490
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_1/Textures/ui_eff_login_1.tga
+- Assets/GameRes/Effect/UI/ui_eff_login_1/Prefabs/ui_eff_login_1.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_202_c
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_202
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_306
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_318
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_320
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_028
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/lianxu_304
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/water_203
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_550
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_007
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_1_4
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_1_1
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_5
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_1_2
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_1_3

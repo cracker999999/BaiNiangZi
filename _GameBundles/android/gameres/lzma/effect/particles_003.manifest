@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3640799273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e58951fe6ad19c507af6b2d5ef5bc73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/particles_003.png
+Dependencies: []

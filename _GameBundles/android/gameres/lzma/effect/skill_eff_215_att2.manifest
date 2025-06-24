@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2467666377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a5ff65983b1fe9ac23d65178ae7dfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d35f8d1a55cfb28942e7509014437f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_215_att/Prefabs/skill_eff_215_att2.prefab
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1919812872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b14cfc446e3a4a028e4e0a8e934a5a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d35f8d1a55cfb28942e7509014437f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0039/Prefabs/ui_eff_0039_g.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_419
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_503
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_204_c
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_021
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_509

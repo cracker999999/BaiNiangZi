@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1462582859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c469520ca7661a2e108ec03bd9583d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3ecb88add77f6c0c16b16c939d8d490
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/weapon/weapon_eff_1320_6/Prefabs/weapon_eff_1320_6.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_007
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_202
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_503
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_017
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_507
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fire_500
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_018
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_505
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/light_507
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_509
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_508
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/weapon_eff_1320_6_1
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/weapon1320_6_mat

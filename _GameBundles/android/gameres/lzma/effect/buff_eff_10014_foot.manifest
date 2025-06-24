@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2573034091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a51ece2fbb55e373a5e3822be45c7d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b66d8d609ddf18d38da67ffeaf77489
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10014_foot/Prefabs/buff_eff_10014_foot.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_021
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/buff_eff_10014_foot_1
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/buff_eff_10014_foot_2
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fire_500
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_005

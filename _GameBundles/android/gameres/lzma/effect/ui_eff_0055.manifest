@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2954687427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 702dead1ba3c5369a564f6f25e58daec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b8f182ed454b17997aaa80c71710441
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0055/Prefabs/ui_eff_0055.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_zhiyin_001

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1775438567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0392182c1ef47408308eb53ea5c31c80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/weapon/weapon_eff_1310_6/Textures/weapon_eff_1310_6_1.tga
+Dependencies: []

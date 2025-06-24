@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2357970322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 816770536d26d1a044cc406c36fcf167
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e51dfc5b77658948525fbaaec04aa9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_196_full/Prefabs/Skill_eff_196_fly.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_065
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_101
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/flash_506
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/daoguang_104
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_087
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_011
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_414

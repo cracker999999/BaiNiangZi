@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1922112439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fce412320cbfa4a012d7d1d3d96dcdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2160b177aea43b7ca227eb5cddd55583
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a55ed8eb0ddafa449824d36e67f91076, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82e4446be6fcf70499b8644b0e7c1849, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_112_full/Prefabs/Skill_eff_112_full.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_202
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_433
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_306
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_009
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_447
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_510
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/light_507
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/flash_507
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_004
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_205
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_407
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_530
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/explosion_007
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_488
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_012

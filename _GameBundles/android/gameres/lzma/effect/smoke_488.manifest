@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 544012852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bee37957b9930cbac1c68519db720d23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/smoke_488.tga
+Dependencies: []

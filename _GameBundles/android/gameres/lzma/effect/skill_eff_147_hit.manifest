@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1114682792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d81eb79f45e67fe449801e4b513dd16b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f0605666dcd15534db0a2da280cd5de2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_147_hit/Prefabs/skill_eff_147_hit.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_202
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/wave01_blue
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_006
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_206
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_005
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fazhen_312
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fazhen_313
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_501
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_455
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/water_502
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_101
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_075
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_108
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_111

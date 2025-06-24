@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1670990591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44f85f7929a232958778ba199086f1ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5284_full/Textures/skill_eff_5284_fullyinying.png
+Dependencies: []

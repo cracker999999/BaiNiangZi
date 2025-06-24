@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2797413077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 652ad99ce00331c27add91c3c1cdb692
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3ecb88add77f6c0c16b16c939d8d490
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0046/Prefabs/scene_eff_0046.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_034
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_006
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_098
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/zhadan_101
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_013
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fireworks_506

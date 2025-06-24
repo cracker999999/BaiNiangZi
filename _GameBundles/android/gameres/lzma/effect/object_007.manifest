@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2387336238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 022cf6c00c566a2ddf6f2cf4dac824d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/object_007.png
+Dependencies: []

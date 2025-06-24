@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3579430803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 818bfd1b77e3d3f30f93b583f34cb6e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 772cc46c03e38cb5068c23572dbaf59e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_1218_full/Prefabs/skill_eff_1218_full.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/word_009
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/glow_007
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_306
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_215
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/word_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_028
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/flash_032
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_040
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_237
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_218

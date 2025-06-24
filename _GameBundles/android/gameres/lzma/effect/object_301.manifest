@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 307573296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 002a4d14b090274d5bcf4e9489146ecb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/object_301.png
+Dependencies: []

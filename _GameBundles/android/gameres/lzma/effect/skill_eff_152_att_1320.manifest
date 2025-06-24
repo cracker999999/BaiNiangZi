@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1854441858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9824ae0f09538ec068791eec25ab2d41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6d77a276ecae181bbb4c61e1b8bd746
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_152_att/Prefabs/skill_eff_152_att_1320.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1551364450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1dff671381bda143efa44d6fc88047f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0005/Textures/E_lokyleng_thunderlight_007.png
+Dependencies: []

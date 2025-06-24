@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3934497691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8a223c705d70e6b107292a2bc235e5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2dc450cec6dbc38cc6e5cd03838c4d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_136_1_att/Prefabs/skill_eff_136_1_att.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_202
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_419
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_306
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_318
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_317
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_206
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_005
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_498
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_203
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_304_c
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_501
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_110
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_433_blue
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_030
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_109
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_073
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_411
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/pet_2300

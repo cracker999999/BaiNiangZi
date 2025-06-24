@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2715654979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d6d0c7e3badf5a296478a6b121e2280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/mask_105.png
+Dependencies: []

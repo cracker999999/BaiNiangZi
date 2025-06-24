@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4159675461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 374fd03e99d8be32a03173faf924ce6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66775432fdbc495f34f3b08a590cb52e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_2/Prefabs/ui_eff_login_2.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/lianxu_304
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_304_2
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_2_2
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ui_eff_login_2_1

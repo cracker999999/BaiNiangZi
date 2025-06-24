@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1010598470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ed0d11c65f94dd86e5f6cedc60aa8b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0062/Textures/ui_eff_0062_4.png
+Dependencies: []

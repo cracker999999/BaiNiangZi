@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1035012490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b11f3bd22b22bf3df8dcce560a831f1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 470c1af1c724562a5047c7d9683d59a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_6010/Prefabs/scene_eff_6010_guangxian.prefab
+- Assets/GameRes/Effect/Scene/scene_eff_6011/Prefabs/scene_eff_6010_guangxian.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_468

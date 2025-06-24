@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3318690613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b255aeb503ea44ab5318b489cbf2ee8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0021/Prefabs/scene_eff_0021.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_205

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1214165461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d8f7f951dc2535fb6137dafedb059a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3ecb88add77f6c0c16b16c939d8d490
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_6011/Prefabs/scene_eff_6010_shui_luoye.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/ring_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_308
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/water_203
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_500
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/smoke_022

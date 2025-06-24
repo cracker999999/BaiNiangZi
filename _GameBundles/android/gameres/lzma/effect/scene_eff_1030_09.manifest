@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 101176581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e96f4c07e97e4f27990cb28327b9b8c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_1030/Textures/scene_eff_1030_09.png
+Dependencies: []

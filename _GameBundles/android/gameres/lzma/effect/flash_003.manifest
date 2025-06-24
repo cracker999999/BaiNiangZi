@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3022394983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cabec09a71ea4c06e614450d579fa1f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/flash_003.tga
+- Assets/GameRes/Effect/commons_new/Textures/flash_003.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1078899204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ca78e78977a2ab8be96adac4c6c2d21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/noise_507.tga
+Dependencies: []

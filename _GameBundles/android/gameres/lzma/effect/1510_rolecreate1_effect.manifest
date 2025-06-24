@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1379281416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f096923ee7b15490ef7a6632bca65a29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Character/1510_rolecreate1_effect/Prefabs/1510_rolecreate1_effect.prefab
+Dependencies: []

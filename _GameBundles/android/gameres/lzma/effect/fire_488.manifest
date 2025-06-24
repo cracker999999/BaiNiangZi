@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3558283984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 867c0ba9db4af1328cd24e3c3d0996ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fire_488.png
+Dependencies: []

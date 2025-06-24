@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2811256562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9679744c56e2f3f484c85493381a999a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0049/Textures/_ui_eff_0049_3.tga
+Dependencies: []

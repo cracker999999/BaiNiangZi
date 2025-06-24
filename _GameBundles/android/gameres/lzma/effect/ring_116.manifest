@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 14199099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb54543e3025991146ffc2d403314329
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/ring_116.png
+- Assets/GameRes/Effect/UI/ui_eff_zhiyin_001/Textures/ring_116.tga
+Dependencies: []

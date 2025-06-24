@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1650358523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6a0e4072334e6d0c6cf4deb537a37a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c779f9c875c9ee4bb1858a77951478a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_1020/Textures/scene_eff_1020_03.png
+- Assets/GameRes/Effect/Scene/scene_eff_1020/Prefabs/scene_eff_1020_03.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201

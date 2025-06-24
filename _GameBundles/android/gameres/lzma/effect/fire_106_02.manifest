@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3474160511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bb8d4c0b32b529e10aa4d0ca1cde468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fire_106_02.png
+Dependencies: []

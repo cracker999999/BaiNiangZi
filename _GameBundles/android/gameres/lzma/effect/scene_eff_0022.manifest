@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4028341855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 960da68e83763a0c6843eafefacf70a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 470c1af1c724562a5047c7d9683d59a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0022/Prefabs/scene_eff_0022.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/other_481

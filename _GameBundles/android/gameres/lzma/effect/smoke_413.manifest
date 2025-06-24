@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 717582088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56907f6493a4521c9f3ecf535abbe164
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/smoke_413.tga
+Dependencies: []

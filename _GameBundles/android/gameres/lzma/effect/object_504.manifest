@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1264016104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51a84176200eb4a8003b5e51a66076b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/object_504.png
+Dependencies: []

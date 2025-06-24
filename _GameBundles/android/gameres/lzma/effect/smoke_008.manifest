@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 767370661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c90f8d40fed07e8b87b68f424861b1bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/smoke_008.png
+- Assets/GameRes/Effect/commons_new/Textures/smoke_008.png
+Dependencies: []

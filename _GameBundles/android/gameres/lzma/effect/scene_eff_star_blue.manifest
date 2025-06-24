@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 551950680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c31d70f24f5aaf462ec447d6977fd452
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 470c1af1c724562a5047c7d9683d59a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_star/Prefabs/scene_eff_star_blue.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_028

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2220674483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d3ff7de81e406bb8cebdc52d38cb6b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_120_hit/Textures/Skill_eff_120_hit1.png
+Dependencies: []

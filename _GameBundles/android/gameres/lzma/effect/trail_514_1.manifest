@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3885047109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d0da27eb03dab1cc69a9431e588c92f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Character/1120_rolecreate2_effect/Textures/trail_514_1.png
+Dependencies: []

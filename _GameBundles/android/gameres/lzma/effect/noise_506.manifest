@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 599910140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b29a1dbfac8c04bf0da44cd3b869be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/noise_506.tga
+Dependencies: []

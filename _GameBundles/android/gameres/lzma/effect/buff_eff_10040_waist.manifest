@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3550643813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 907190bc605173761e9e8c0667c386b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 904b7b67fc3b9545de9292d95ff139a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10040_waist/Prefabs/buff_eff_10040_waist.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_503
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/gradient_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/eff_fight_02_qiu

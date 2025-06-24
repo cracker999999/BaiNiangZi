@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2966841437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6ff0e20cb26538d939eeaf23b67d1c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 051f90c26784268cd176594c6d7e6022
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0a98cf7bddf1c144bab4d8660db1799, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_1007/Prefabs/ui_eff_1007_03.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/particles_201

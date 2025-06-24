@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2078418142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d904ec0f61d52b2e8d1ca48f75d9ebe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/glow_010.tga
+Dependencies: []

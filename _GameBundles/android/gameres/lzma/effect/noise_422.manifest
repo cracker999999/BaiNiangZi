@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 887243126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2fa335181cb50ce99b8aaffd391dc46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0020/Textures/noise_422.tga
+- Assets/GameRes/Effect/Scene/scene_eff_0017/Textures/noise_422.png
+Dependencies: []

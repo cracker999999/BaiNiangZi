@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 6779977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 369cbb5da907cc3606707f529d2825e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0096/Textures/ring_034.tga
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1753474707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 987a9c6aee5335d619a3712e274545ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_196_full/Textures/noise_414.tga
+Dependencies: []

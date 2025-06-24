@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2436403946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4afd76c1915400238d427d4a166caba6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10031_foot/Textures/trail_417.tga
+Dependencies: []

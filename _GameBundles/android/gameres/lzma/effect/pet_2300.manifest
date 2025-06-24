@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1793858418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a3e7d78640a6e571f84e102063d030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_136_1_att/Materials/pet_2300.png
+Dependencies: []

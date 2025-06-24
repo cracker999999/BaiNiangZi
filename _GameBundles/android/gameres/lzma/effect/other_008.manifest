@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1822144540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b305d7f9e1902a6aa23d835262cc6314
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/other_008.png
+Dependencies: []

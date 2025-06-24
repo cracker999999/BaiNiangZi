@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3085211273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cac4c3dcbef25a5241f9cc916a8576ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10016_foot/Textures/buff_eff_10016_foot_1.png
+Dependencies: []

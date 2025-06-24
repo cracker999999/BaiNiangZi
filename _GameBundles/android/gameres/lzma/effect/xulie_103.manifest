@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4111164308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bed6be3942fbb260558332130a00d4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/xulie_103.png
+Dependencies: []

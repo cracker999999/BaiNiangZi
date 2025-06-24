@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 607856977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3a0063a9f000f3d243f4928e9f39298
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/particles_004.tga
+Dependencies: []

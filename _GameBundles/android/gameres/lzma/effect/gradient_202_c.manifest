@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1567445944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0826d1f59b2592dc8f9191b56370723d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/Gradient_202_c.png
+- Assets/GameRes/Effect/commons/Textures/Gradient_202_c.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1871652043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 013daa2e57b34b4d0c4b146825b88a1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/Gradient_507.png
+Dependencies: []

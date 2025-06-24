@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3201157343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8dc4c138c16832e45c91cc45bdd5476
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/word_433.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 790879826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 171c212873a03d5bf17acbc112aa0c6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0010/Textures/ring_485_c_blue.png
+Dependencies: []

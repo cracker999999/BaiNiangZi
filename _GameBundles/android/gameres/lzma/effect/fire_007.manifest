@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 389358084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2bd37b1ee36cdb50ce51257b99f36af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fire_007.png
+Dependencies: []

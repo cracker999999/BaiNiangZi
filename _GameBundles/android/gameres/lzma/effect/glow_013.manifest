@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2990793909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddfc74e0ee05dbd07ca5f7ee1b33f092
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/glow_013.png
+Dependencies: []

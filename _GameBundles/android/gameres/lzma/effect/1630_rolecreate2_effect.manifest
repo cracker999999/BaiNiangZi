@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1772590110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae15a0c66c957b855f7a0b5127328c08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Character/1630_rolecreate2_effect/Prefabs/1630_rolecreate2_effect.prefab
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2799455081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fe4d36efcb767e85518ca48e4c749dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/smoke_435.png
+Dependencies: []

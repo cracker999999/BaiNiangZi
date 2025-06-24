@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2795494473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 116387c11bb5fc538c2bfe8e9c95c847
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/dilie_102.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1996785405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06953b8675910f4ad3aa0d10f30014bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5201_full/Textures/fire_606.tga
+Dependencies: []
