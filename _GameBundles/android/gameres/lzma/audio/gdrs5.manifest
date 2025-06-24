@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1753860096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3957105b1a683a70a6be6cd8e1be04d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/gdrs5.mp3
+Dependencies: []

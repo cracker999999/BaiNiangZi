@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2347478301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a4b2c22a9328ff64bf2506f143b0ff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xlxz5.mp3
+Dependencies: []

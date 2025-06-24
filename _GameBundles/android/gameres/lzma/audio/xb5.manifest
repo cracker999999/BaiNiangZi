@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3202798969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6082efe9cb510d6b343ae5e964227f42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xb5.mp3
+Dependencies: []

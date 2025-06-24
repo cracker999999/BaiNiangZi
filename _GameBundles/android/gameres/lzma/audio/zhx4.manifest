@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2315647796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b6739a5f113f7d78d8359ffc8e2e2a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/zhx4.mp3
+Dependencies: []

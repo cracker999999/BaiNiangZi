@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3144757895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de6e4358822ccf9e56f162ca09d4007
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/sqy1.OGG
+- Assets/GameRes/Audio/Sound/War/sqy1.OGG
+Dependencies: []

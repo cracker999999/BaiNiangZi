@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 719786435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c8178093f581c1db1310ef7fc51c7ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/UI/liushui.ogg
+Dependencies: []

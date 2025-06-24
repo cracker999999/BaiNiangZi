@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3368743844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7acfc27803693fbaf610e150e154da8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/yg2.mp3
+Dependencies: []

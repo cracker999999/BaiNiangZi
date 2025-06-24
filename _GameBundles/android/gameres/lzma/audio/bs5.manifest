@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3128552755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e07bfcb6beffa110d253e85426142137
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/bs5.mp3
+Dependencies: []

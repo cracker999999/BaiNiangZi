@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 550742585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 645cedb14a2749f038f93616e5099091
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/jiayuan.mp3
+Dependencies: []

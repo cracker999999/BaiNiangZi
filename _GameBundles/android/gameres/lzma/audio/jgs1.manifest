@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4135374715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cdac58c64884a20015e36a3911f25c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jgs1.OGG
+- Assets/GameRes/Audio/Sound/Model/jgs1.OGG
+Dependencies: []

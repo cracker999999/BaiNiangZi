@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2739547842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6babe733f0bbe86b9b2b8d67b8cd9491
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jl5.mp3
+Dependencies: []

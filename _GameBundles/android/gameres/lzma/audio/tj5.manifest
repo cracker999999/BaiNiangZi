@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1680693092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2a183e9933234906fa5bbcd5e7686cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/tj5.mp3
+Dependencies: []

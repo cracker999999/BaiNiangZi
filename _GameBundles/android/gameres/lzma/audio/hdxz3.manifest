@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2108610612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4115a2b2609505ee384632731dfacbef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/hdxz3.mp3
+Dependencies: []

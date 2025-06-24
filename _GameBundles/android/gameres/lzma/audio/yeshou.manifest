@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1005405214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b5e657d4aa0334b7ade4bb486e49d3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/yeshou.ogg
+Dependencies: []

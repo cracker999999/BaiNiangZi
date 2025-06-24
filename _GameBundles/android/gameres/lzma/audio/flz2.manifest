@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3285196826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c52012cd8837fb7c4222f11a2c332bb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/flz2.ogg
+Dependencies: []

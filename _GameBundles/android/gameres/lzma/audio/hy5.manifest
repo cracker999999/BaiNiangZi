@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3915872828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b192914593ea07ab83c53947d1587565
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/hy5.mp3
+Dependencies: []

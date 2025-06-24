@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 293899420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b863cbbffaf01c16a9ea70809df20113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/laoren1.mp3
+Dependencies: []

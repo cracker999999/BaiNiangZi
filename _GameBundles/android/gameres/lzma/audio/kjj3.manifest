@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2320373286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac8ab193abd5efcb2384a5dd6a6a35c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/kjj3.ogg
+Dependencies: []

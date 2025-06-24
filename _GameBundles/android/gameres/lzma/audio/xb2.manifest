@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 906299724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dada6292f5f35c952bbc1da3075852b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xb2.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 481820115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12e8e2d4b67be5261e63c8cc3c53671e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/gong.ogg
+Dependencies: []

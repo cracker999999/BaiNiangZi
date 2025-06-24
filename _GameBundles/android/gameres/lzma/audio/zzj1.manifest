@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3187589241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b59340618eb4b3bef09d73aa9cb1128f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/zzj1.OGG
+Dependencies: []

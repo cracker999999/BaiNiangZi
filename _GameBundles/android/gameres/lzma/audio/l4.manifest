@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2655246721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22f97c0b1daf3e2e2fed78bc5cdcd480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/l4.mp3
+Dependencies: []

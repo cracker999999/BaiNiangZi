@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2427462691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a951cb01f4e033b13ae2dc05b9ed9b29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/UI/qianghua1.ogg
+Dependencies: []

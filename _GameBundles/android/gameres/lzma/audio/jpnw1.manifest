@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2511472643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e78cd5ef7accf2f5a82391a235da56b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jpnw1.OGG
+- Assets/GameRes/Audio/Sound/War/jpnw1.OGG
+Dependencies: []

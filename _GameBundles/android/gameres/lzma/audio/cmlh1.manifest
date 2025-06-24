@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3265057365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb516c3974b3ad3fc82d8a193bc65e74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/cmlh1.OGG
+- Assets/GameRes/Audio/Sound/Model/cmlh1.OGG
+Dependencies: []

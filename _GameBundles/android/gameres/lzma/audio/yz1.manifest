@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2675536689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf4e916e1ed2079507f1935797c07a5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/yz1.OGG
+Dependencies: []

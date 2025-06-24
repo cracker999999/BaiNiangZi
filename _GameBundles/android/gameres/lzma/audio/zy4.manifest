@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2639548056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30f26a759661783fafde9ed37159ab26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/zy4.mp3
+Dependencies: []

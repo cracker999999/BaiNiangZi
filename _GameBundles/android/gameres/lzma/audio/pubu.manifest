@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4280728825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac3bdd79e6deb00dd2b53058833c6d32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/UI/pubu.ogg
+Dependencies: []

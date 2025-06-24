@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2046407754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2490f58b1d513259904d97ee24fd5e42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/mzsh2.mp3
+Dependencies: []

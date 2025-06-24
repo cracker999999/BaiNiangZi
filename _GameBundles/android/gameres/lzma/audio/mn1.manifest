@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 588461032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86df7f4ea932bd9f61f4e82f9fa6ef61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/mn1.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 413832838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72eed1c4973ad400d20a0c59309ed9ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/shan.ogg
+Dependencies: []

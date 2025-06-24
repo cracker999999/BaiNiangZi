@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1761045544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57e65d69a2998621fab55bd7c66f2d47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jgs3.mp3
+Dependencies: []

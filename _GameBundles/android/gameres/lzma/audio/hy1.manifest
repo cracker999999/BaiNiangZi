@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 463566151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f37ee3ee1efd40ddc39ed834b76c5c95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/hy1.OGG
+Dependencies: []

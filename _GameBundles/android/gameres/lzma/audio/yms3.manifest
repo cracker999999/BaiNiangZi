@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 668046384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e54d484749fa63d1e9b1fcc5e93d4c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/yms3.mp3
+Dependencies: []

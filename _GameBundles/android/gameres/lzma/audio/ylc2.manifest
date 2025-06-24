@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4216910428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79f5242d779232c9c1d2db563fca97c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/ylc2.mp3
+Dependencies: []

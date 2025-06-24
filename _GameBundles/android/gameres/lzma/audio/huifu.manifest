@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3046620660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1429e71818d31ef014b6f5a4e793ca9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/huifu.ogg
+Dependencies: []

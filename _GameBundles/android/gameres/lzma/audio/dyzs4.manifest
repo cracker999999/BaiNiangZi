@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 292931870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f53219f1653f1856328df7117a1f8d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/dyzs4.mp3
+Dependencies: []

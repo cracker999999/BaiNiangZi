@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1541180529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65fc2d88adfdc8d4370b47b89f2c15ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jpnw3.mp3
+Dependencies: []

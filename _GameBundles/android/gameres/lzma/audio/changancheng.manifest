@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 802126475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a96aa09b28bd0dec537bb9abc965ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/changancheng.mp3
+Dependencies: []

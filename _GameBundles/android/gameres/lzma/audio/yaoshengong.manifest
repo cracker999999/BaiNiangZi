@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1265870412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fc9e9a1ab19b6ac9b8ba4c23895b009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/yaoshengong.mp3
+Dependencies: []

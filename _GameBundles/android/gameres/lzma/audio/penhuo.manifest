@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1757673086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19bd927bc70fe91f2fbb6dd53271bb3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/penhuo.ogg
+Dependencies: []

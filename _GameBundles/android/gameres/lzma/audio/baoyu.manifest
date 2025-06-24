@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2121270636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5adff2d0846a69df0bd2c489d880518
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/baoyu.ogg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1432951418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc2ea8b54682223fe7d226c18026d5a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jian.ogg
+Dependencies: []

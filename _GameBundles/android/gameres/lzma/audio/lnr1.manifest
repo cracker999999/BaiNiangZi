@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1912593771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddba3a0519d9b7bf42183671746f9f93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/lnr1.OGG
+Dependencies: []

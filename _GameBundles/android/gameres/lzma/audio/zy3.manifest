@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3075563709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d59e763b32c77aa12ea2b506d6d8fc5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/zy3.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 43832595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbcf181592c21ec4e186d1f1b4220e06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/fh1.OGG
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1675580697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5fcb408697b503a34fa2d97a3b319b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/hd1.mp3
+- Assets/GameRes/Audio/Sound/Model/hd1.OGG
+- Assets/GameRes/Audio/Sound/War/hd1.OGG
+Dependencies: []

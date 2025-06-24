@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3628592165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60b785b60aef7398783ca71a24e973eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xqgd.ogg
+Dependencies: []

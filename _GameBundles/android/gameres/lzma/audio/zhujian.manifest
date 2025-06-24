@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3832438761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b76f8bde6411a9c2983f27e3bf2f53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/zhujian.ogg
+Dependencies: []

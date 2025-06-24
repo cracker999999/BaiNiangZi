@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4192519277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd59c0e37fd39d16273096133e55769
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jgr4.mp3
+Dependencies: []

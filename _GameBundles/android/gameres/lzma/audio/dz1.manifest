@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2230956966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98c0ab2d294505707877a87373117a0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/dz1.mp3
+Dependencies: []

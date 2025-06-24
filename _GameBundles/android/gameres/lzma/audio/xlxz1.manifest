@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4256388274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfa1bb84807afeab3062f991ba34613b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xlxz1.OGG
+Dependencies: []

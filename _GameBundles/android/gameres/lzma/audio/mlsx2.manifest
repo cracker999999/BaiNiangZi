@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2264809515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2211ca25a5fbd41726d3de2b74d0307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/mlsx2.mp3
+Dependencies: []

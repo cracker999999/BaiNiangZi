@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1959354628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bae9f9e8f76c688d8f6eb254d55d5d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/klg2.mp3
+Dependencies: []

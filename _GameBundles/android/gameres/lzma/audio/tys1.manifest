@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3037949458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22be5227a562913e86c4822114e202ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/tys1.OGG
+- Assets/GameRes/Audio/Sound/Model/tys1.OGG
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2480899615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45ce35e520d237e2f225440471681d4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jiguan2.ogg
+Dependencies: []

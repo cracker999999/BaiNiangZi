@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2390018918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c95a629d2808c077d1145e149685e6a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/hexz1.OGG
+- Assets/GameRes/Audio/Sound/War/hexz1.OGG
+Dependencies: []

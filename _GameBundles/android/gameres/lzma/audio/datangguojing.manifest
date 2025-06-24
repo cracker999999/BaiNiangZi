@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 108820345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ab470d5e763d35b051807a9306a66b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/datangguojing.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4056956579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed77d47aca840f3ee16fd8bfdaa8a3eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jgfm1.OGG
+Dependencies: []

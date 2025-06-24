@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2727664703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2c652b0f0f6b567665ce5587357396b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/flbf2.ogg
+Dependencies: []

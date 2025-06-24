@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3675724042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0cf3dafa55e59cf1624bd8dcd8f9174
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/qjp2.ogg
+Dependencies: []

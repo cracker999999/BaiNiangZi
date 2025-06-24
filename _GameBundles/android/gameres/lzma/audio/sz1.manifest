@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1036881300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 754afb35949a783e5330e266d1790447
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/sz1.ogg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1556209086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff96ec5a06a651f4bce729bc4b90cc9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/jmdj2.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2621718947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d531c56d559573ac8a366a7a1847f5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/lg2.mp3
+Dependencies: []

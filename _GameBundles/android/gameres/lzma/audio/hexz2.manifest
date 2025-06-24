@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3112460441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b80e4304b15c078c82541082901a3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/hexz2.mp3
+Dependencies: []

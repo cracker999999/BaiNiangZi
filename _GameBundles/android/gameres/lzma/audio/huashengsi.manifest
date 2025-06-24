@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3764730755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ac253113410becc614dd9362a6fad6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/huashengsi.mp3
+Dependencies: []

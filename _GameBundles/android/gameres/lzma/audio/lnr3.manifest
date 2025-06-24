@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 404777800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db21fb9f365d2fa9f89822b4b44fc882
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/lnr3.mp3
+Dependencies: []

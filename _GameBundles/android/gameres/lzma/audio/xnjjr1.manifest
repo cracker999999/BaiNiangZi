@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3291803772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed30197b94e207711436cb06713a8b95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xnjjr1.OGG
+Dependencies: []

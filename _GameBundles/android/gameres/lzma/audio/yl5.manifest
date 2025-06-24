@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3713490025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59aa1c09c57baef93f74cf508296b90e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/yl5.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3907058632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e57f0ad65e40f0cb42dc469b89e9a44c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/spl.ogg
+Dependencies: []

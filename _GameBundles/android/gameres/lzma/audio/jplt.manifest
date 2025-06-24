@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1973576865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1aa21ea0db3908f6245136cfe2609b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jplt.ogg
+Dependencies: []

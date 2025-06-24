@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1679323161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3ed0a412aa97dfc604eca9461451aa4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/sg4.mp3
+Dependencies: []

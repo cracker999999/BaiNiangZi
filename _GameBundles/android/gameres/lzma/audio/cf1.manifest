@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 487666899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c4cfc26cc7940716c0caf0ca3c83f6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/cf1.mp3
+Dependencies: []

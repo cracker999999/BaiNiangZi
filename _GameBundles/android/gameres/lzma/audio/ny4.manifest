@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1237004821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e47d2dbe42e4b325f992e106cf91af9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/ny4.mp3
+Dependencies: []

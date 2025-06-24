@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 332990228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daa10e4a491555cdd29c230ed5165e6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xlkly2.mp3
+Dependencies: []

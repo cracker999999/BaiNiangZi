@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3380415218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c37ee2c9ba2b7ed0b8a18d0eaec9db56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/sqy2.mp3
+Dependencies: []

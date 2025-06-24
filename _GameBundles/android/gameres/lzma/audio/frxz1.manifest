@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3021985223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75d402e91113cd24c14d4e25cf5175b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/frxz1.OGG
+Dependencies: []

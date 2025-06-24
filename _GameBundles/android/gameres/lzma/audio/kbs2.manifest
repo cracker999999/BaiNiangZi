@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 702755342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02e8646e50b83d6643894e69246c055f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/kbs2.mp3
+Dependencies: []
