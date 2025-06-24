@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1778797304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27e0ec9ffe47dfe1ba218c9037c79f2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6010/Textures/6010_shuye3.png
+- Assets/GameRes/Map3d/6010/Textures/Scene_beijing.png
+- Assets/GameRes/Map3d/6010/Textures/6010_1.png
+Dependencies: []

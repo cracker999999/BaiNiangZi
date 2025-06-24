@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1315392514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c44d78a7f9c8918563361ea41dab8106
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/GameRes/Map3d/6010/Textures/6010_shuye4\u526F\u672C.png"
+Dependencies: []

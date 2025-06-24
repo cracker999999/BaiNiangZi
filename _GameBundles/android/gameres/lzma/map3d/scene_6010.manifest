@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 351578333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f006e45dc3dc9fb643d4590f8aaa09d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f59bc60d0f74cf2ca6d9b7e63e4875f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6010/Prefabs/Scene_6010.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/map3d/scene_6010_tex
