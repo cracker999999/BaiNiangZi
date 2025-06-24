@@ -1,0 +1,14 @@
+LuaException: [string "LuaDebug"]:44: variable 'LuaDebugTool' is not declared
+stack traceback:
+	[C]: in function 'error'
+	[string "core/strict"]:32: in function '__index'
+	[string "LuaDebug"]:44: in main chunk
+	[C]: in function 'require'
+	[string "main"]:13: in function 'OpenVsCodeDebug'
+	[string "main"]:29: in function <[string "main"]:18>
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:652)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaInterface.LuaFunction:Call() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:120)
+LuaMain:Start() (at Assets/Scripts/LuaMain.cs:87)
+
+

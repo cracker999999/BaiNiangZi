@@ -1,0 +1,50 @@
+[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:276: attempt to perform arithmetic on local 'j' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__sub'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:276: in function 'getPos'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:295: in function 'RefreshRewardList'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:87: in function 'RefreshAll'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:81: in function 'SetData'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureCtrl"]:25: in function 'm_LoadDoneFunc'
+	[string "logic/ui/CViewBase"]:147: in function <[string "logic/ui/CViewBase"]:103>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CResCtrl"]:298: in function 'DoCloneCallback'
+	[string "logic/base/CResCtrl"]:285: in function 'CloneWithAsset'
+	[string "logic/base/CResCtrl"]:245: in function <[string "logic/base/CResCtrl"]:244>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CResCtrl"]:305: in function 'DoAssetCallback'
+	[string "logic/base/CResCtrl"]:361: in function <[string "logic/base/CResCtrl"]:347>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CDelegate"]:25: in function <[string "logic/base/CDelegate"]:20>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+<LoadAsync>c__AnonStorey0:<>m__0(Object) (at Assets/Scripts/Resource/ResourceManager.cs:95)
+AssetPipeline.AssetHandler:Excute(Object) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:59)
+AssetPipeline.<LoadAssetFromProjectAsync>c__Iterator2:MoveNext() (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:730)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+
+[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:276: attempt to perform arithmetic on local 'j' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__sub'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:276: in function 'getPos'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:295: in function 'RefreshRewardList'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:87: in function 'RefreshAll'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:81: in function 'SetData'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureCtrl"]:25: in function 'm_LoadDoneFunc'
+	[string "logic/ui/CViewBase"]:147: in function <[string "logic/ui/CViewBase"]:103>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CResCtrl"]:298: in function 'DoCloneCallback'
+	[string "logic/base/CResCtrl"]:285: in function 'CloneWithAsset'
+	[string "logic/base/CResCtrl"]:245: in function <[string "logic/base/CResCtrl"]:244>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CResCtrl"]:305: in function 'DoAssetCallback'
+	[string "logic/base/CResCtrl"]:361: in function <[string "logic/base/CResCtrl"]:347>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CDelegate"]:25: in function <[string "logic/base/CDelegate"]:20>
+

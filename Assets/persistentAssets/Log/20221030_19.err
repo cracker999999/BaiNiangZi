@@ -1,0 +1,47 @@
+[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:345: bad argument #1 to 'OnComplete' (DG.Tweening.Tween expected, got function)
+stack traceback:
+	[string "core/global"]:81: in function <[string "core/global"]:73>
+	[C]: in function 'OnComplete'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:345: in function 'ChooseItemAni'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:315: in function 'DoAnimation'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureCtrl"]:48: in function 'GS2CFuYuanLottery'
+	[string "net/nethuodong"]:1063: in function <[string "net/nethuodong"]:1059>
+	[C]: in function 'xxpcall'
+	[string "net/CNetCtrl"]:358: in function 'ProtoCall'
+	[string "net/CNetCtrl"]:330: in function 'ProcessProto'
+	[string "net/CNetCtrl"]:253: in function 'ProtoHandlerCheck'
+	[string "net/CNetCtrl"]:276: in function 'DoReceive'
+	[string "net/CNetCtrl"]:261: in function 'cb'
+	[string "net/CNetCtrl"]:267: in function 'Receive'
+	[string "net/CNetCtrl"]:199: in function 'm_Callback'
+	[string "net/CTcpClient"]:43: in function <[string "net/CTcpClient"]:37>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+TcpClient:Update() (at Assets/Scripts/Net/Tcp/TcpClient.cs:87)
+NetworkManager:CallUpdate() (at Assets/Scripts/Net/NetworkManager.cs:57)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:104)
+
+
+[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:345: bad argument #1 to 'OnComplete' (DG.Tweening.Tween expected, got function)
+stack traceback:
+	[string "core/global"]:81: in function <[string "core/global"]:73>
+	[C]: in function 'OnComplete'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:345: in function 'ChooseItemAni'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureView"]:315: in function 'DoAnimation'
+	[string "logic/fuyuanTreasure/CFuyuanTreasureCtrl"]:48: in function 'GS2CFuYuanLottery'
+	[string "net/nethuodong"]:1063: in function <[string "net/nethuodong"]:1059>
+	[C]: in function 'xxpcall'
+	[string "net/CNetCtrl"]:358: in function 'ProtoCall'
+	[string "net/CNetCtrl"]:330: in function 'ProcessProto'
+	[string "net/CNetCtrl"]:253: in function 'ProtoHandlerCheck'
+	[string "net/CNetCtrl"]:276: in function 'DoReceive'
+	[string "net/CNetCtrl"]:261: in function 'cb'
+	[string "net/CNetCtrl"]:267: in function 'Receive'
+	[string "net/CNetCtrl"]:199: in function 'm_Callback'
+	[string "net/CTcpClient"]:43: in function <[string "net/CTcpClient"]:37>
+

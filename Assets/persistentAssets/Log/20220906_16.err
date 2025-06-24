@@ -1,0 +1,20 @@
+JsonException: Invalid character '<' in input string
+LITJson.Lexer.NextToken () (at Assets/Standard Assets/LITJson/Lexer.cs:703)
+LITJson.JsonReader.ReadToken () (at Assets/Standard Assets/LITJson/JsonReader.cs:312)
+LITJson.JsonReader.Read () (at Assets/Standard Assets/LITJson/JsonReader.cs:361)
+LITJson.JsonMapper.ReadValue (System.Type instType, LITJson.JsonReader reader) (at Assets/Standard Assets/LITJson/JsonMapper.cs:295)
+LITJson.JsonMapper.ToObject[VersionConfig] (System.String json) (at Assets/Standard Assets/LITJson/JsonMapper.cs:857)
+AssetPipeline.AssetUpdate+<DownloadVersionConfig>c__Iterator2+<DownloadVersionConfig>c__AnonStorey13.<>m__0 (UnityEngine.Networking.UnityWebRequest www) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetUpdate.cs:463)
+AssetPipeline.AssetUpdate+<DownloadByUnityWebRequest>c__Iterator10.MoveNext () (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetUpdate.cs:1867)
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) (at C:/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+
+
+RequestException url=http://127.0.0.1:8887/release/android/servers/staticconfig.txt?ver=637980787450073318 Exception=System.Exception: 404 Not Found
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+<RequestWithUrl>c__AnonStorey2:<>m__1(Exception) (at Assets/Standard Assets/GameFramework/Network/HTTP/HttpController.cs:261)
+<_Receive>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/Network/HTTP/SimpleWWW.cs:130)
+
+
+RequestException url=http://127.0.0.1:8887/release/android/servers/staticconfig.txt?ver=637980787450073318 Exception=System.Exception: 404 Not Found
+

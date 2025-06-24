@@ -1,0 +1,52 @@
+LuaException: Could not find file "E:\UnityWorkspace\Client5.6.7\Assets\Lua\emmy_core.lua".
+stack traceback:
+	[C]: at 0x44672c80
+	[C]: in function 'require'
+	[string "main"]:2: in main chunk
+System.IO.File:ReadAllBytes(String)
+LuaInterface.LuaFileUtils:ReadFile(String) (at Assets/Standard Assets/ToLua/Core/LuaFileUtils.cs:174)
+LuaInterface.ToLua:Loader(IntPtr) (at Assets/Standard Assets/ToLua/Core/ToLua.cs:199)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:LuaLoadBuffer(Byte[], String) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:2009)
+LuaInterface.LuaState:DoFile(String) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:565)
+LuaMain:Awake() (at Assets/Scripts/LuaMain.cs:74)
+UnityEngine.GameObject:AddComponent(Type)
+GameLauncher:OnLoadCommonAssetFinish() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:482)
+GameLauncher:CheckUpdate() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:164)
+GameLauncher:JudgeNetExist() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:155)
+<ShowLoading>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:139)
+UnityEngine.GameObject:AddComponent(Type)
+GameLauncher:OnLoadCommonAssetFinish() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:482)
+GameLauncher:CheckUpdate() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:164)
+GameLauncher:JudgeNetExist() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:155)
+<ShowLoading>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:139)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+
+LuaException: Could not find file "E:\UnityWorkspace\Client5.6.7\Assets\Lua\emmy_core.lua".
+stack traceback:
+	[C]: at 0x44672c80
+	[C]: in function 'require'
+	[string "main"]:2: in main chunk
+System.IO.File:ReadAllBytes(String)
+LuaInterface.LuaFileUtils:ReadFile(String) (at Assets/Standard Assets/ToLua/Core/LuaFileUtils.cs:174)
+LuaInterface.ToLua:Loader(IntPtr) (at Assets/Standard Assets/ToLua/Core/ToLua.cs:199)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:LuaLoadBuffer(Byte[], String) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:2009)
+LuaInterface.LuaState:DoFile(String) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:565)
+LuaMain:Awake() (at Assets/Scripts/LuaMain.cs:74)
+UnityEngine.GameObject:AddComponent(Type)
+GameLauncher:OnLoadCommonAssetFinish() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:482)
+GameLauncher:CheckUpdate() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:164)
+GameLauncher:JudgeNetExist() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:155)
+<ShowLoading>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:139)
+UnityEngine.GameObject:AddComponent(Type)
+GameLauncher:OnLoadCommonAssetFinish() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:482)
+GameLauncher:CheckUpdate() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:164)
+GameLauncher:JudgeNetExist() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:155)
+<ShowLoading>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/GameLauncher/GameLauncher.cs:139)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+

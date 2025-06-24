@@ -1,0 +1,5446 @@
+RequestException url=http://127.0.0.1:8887/release/android/servers/staticconfig.txt?ver=637981442229033596 Exception=System.Exception: Couldn't connect to server
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+<RequestWithUrl>c__AnonStorey2:<>m__1(Exception) (at Assets/Standard Assets/GameFramework/Network/HTTP/HttpController.cs:261)
+<_Receive>c__Iterator0:MoveNext() (at Assets/Standard Assets/GameFramework/Network/HTTP/SimpleWWW.cs:130)
+
+
+RequestException url=http://127.0.0.1:8887/release/android/servers/staticconfig.txt?ver=637981442229033596 Exception=System.Exception: Couldn't connect to server
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load url error:file://E:/UnityWorkspace/Client5.6.7/Assets/StreamingAssets/WASGame/effect/hs-jjww.was
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.<DownloadByWWW>c__IteratorE:MoveNext() (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetUpdate.cs:1755)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+
+Load url error:file://E:/UnityWorkspace/Client5.6.7/Assets/StreamingAssets/WASGame/effect/hs-jjww.was
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+InvalidOperationException: This cannot be used during play mode.
+UnityEditor.SceneManagement.EditorSceneManager.MarkSceneDirty (Scene scene) (at C:/buildslave/unity/build/artifacts/generated/common/editor/EditorSceneManagerBindings.gen.cs:165)
+UnityEditor.GameObjectInspector.DoPrefabButtons (PrefabType prefabType, UnityEngine.GameObject go) (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:335)
+UnityEditor.GameObjectInspector.DrawInspector () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:227)
+UnityEditor.GameObjectInspector.OnHeaderGUI () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:136)
+UnityEditor.Editor.DrawHeader () (at C:/buildslave/unity/build/Editor/Mono/Inspector/Editor.cs:352)
+UnityEditor.InspectorWindow.DrawEditor (UnityEditor.Editor editor, Int32 editorIndex, Boolean rebuildOptimizedGUIBlock, System.Boolean& showImportedObjectBarNext, UnityEngine.Rect& importedObjectBarRect) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1116)
+UnityEditor.InspectorWindow.DrawEditors (UnityEditor.Editor[] editors) (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:1030)
+UnityEditor.InspectorWindow.OnGUI () (at C:/buildslave/unity/build/Editor/Mono/Inspector/InspectorWindow.cs:359)
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+

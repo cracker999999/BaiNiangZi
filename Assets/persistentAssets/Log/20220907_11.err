@@ -1,0 +1,568 @@
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+DivideByZeroException: Division by zero
+Effect2DAnimator.Update () (at Assets/Scripts/Effect2DAnimator.cs:102)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh1.ogg
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+AssetPipeline.AssetManager:LoadAssetFromProject(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:459)
+AssetPipeline.AssetManager:LoadAsset(String, Type) (at Assets/Standard Assets/GameFramework/AssetPipeline/AssetManager.cs:445)
+ResourceManager:Load(String) (at Assets/Scripts/Resource/ResourceManager.cs:69)
+ResourceManagerWrap:Load(IntPtr) (at Assets/Scripts/Resource/ResourceManagerWrap.cs:66)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:111)
+
+
+Load Asset is null, assetPath = Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+

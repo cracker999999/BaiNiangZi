@@ -1,0 +1,250 @@
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:117: in function <[string "logic/mainmenu/CExpandTaskPart"]:61>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/task/CTaskCtrl"]:3161: in function <[string "logic/task/CTaskCtrl"]:3159>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:112)
+
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:117: in function <[string "logic/mainmenu/CExpandTaskPart"]:61>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/task/CTaskCtrl"]:3161: in function <[string "logic/task/CTaskCtrl"]:3159>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:54: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:112)
+
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:54: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:55: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:112)
+
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:55: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:56: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:112)
+
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:56: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:57: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+UtilsWrap:LogError(IntPtr) (at Assets/Scripts/Lib/UtilsWrap.cs:558)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaStatePtr:LuaPCall(Int32, Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaStatePtr.cs:311)
+LuaInterface.LuaState:PCall(Int32, Int32) (at Assets/Standard Assets/ToLua/Core/LuaState.cs:649)
+LuaInterface.LuaFunction:PCall() (at Assets/Standard Assets/ToLua/Core/LuaFunction.cs:96)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:112)
+
+
+[string "logic/effect/CUIEffectFingerInterval"]:43: attempt to index field 'm_Eff' (a nil value)
+stack traceback:
+	[string "core/global"]:81: in function '__index'
+	[string "logic/effect/CUIEffectFingerInterval"]:43: in function 'SetNotifyTime'
+	[string "logic/effect/CUIEffectFingerInterval"]:83: in function 'OnActive'
+	[string "logic/base/CObject"]:272: in function 'SetActive'
+	[string "logic/mainmenu/CExpandTaskPart"]:325: in function 'RefreshMainTaskNotify'
+	[string "logic/mainmenu/CExpandTaskPart"]:124: in function <[string "logic/mainmenu/CExpandTaskPart"]:121>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CCtrlBase"]:40: in function 'Notify'
+	[string "logic/base/CCtrlBase"]:58: in function 'OnEvent'
+	[string "logic/guide/CGuideCtrl"]:100: in function 'TriggerCheck'
+	[string "logic/guide/CGuideCtrl"]:57: in function 'OnTriggerAll'
+	[string "logic/mainmenu/CMainMenuCtrl"]:113: in function <[string "logic/mainmenu/CMainMenuCtrl"]:111>
+	[C]: in function 'xxpcall'
+	[string "logic/base/CTimerCtrl"]:51: in function 'UpdateList'
+	[string "logic/base/CTimerCtrl"]:70: in function 'Update'
+	[string "main"]:32: in function <[string "main"]:29>
+
+远程主机强迫关闭了一个现有的连接。
+
+  at System.Net.Sockets.Socket+SocketAsyncResult.CheckIfThrowDelayedException () [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.EndReceive (IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.EndReceive (IAsyncResult result) [0x00000] in <filename unknown>:0 
+  at TcpClient.OnReceive (IAsyncResult ar) [0x00031] in E:\UnityWorkspace\Client5.6.7\Assets\Scripts\Net\Tcp\TcpClient.cs:208 
+UnityEngine.Debug:LogError(Object)
+GameDebug:LogError(String, String) (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:142)
+GameDebug:CallUpdate() (at Assets/Standard Assets/GameFramework/Helper/GameDebug.cs:101)
+LuaMain:Update() (at Assets/Scripts/LuaMain.cs:105)
+
+
+远程主机强迫关闭了一个现有的连接。
+
+  at System.Net.Sockets.Socket+SocketAsyncResult.CheckIfThrowDelayedException () [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.EndReceive (IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.EndReceive (IAsyncResult result) [0x00000] in <filename unknown>:0 
+  at TcpClient.OnReceive (IAsyncResult ar) [0x00031] in E:\UnityWorkspace\Client5.6.7\Assets\Scripts\Net\Tcp\TcpClient.cs:208 
+
