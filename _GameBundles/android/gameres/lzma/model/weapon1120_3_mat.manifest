@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2245887974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e78e22e6da913c196687fbf802562b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1120_3/Materials/weapon1120_3.mat
+- Assets/GameRes/Model/Weapon/1120_3/Textures/weapon1120_3.png
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

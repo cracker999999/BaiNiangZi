@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2406704379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76df5db85453bedbba8573fc74b71294
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51823bf0b378deb2c0ea97da5097b3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa83f6fc2e604541ae635fb9cc76f5d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1320_3/Prefabs/weapon1320_3.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/weapon1320_3_mat

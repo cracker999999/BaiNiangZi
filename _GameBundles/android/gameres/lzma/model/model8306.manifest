@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2027726829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cf3812ef5c2fe30621eda0d70cf03f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37c8e98aa128a8d708970ee1d688c6bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8306/Prefabs/model8306.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_498
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/trail_027_c
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/model8306_mat
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator8306

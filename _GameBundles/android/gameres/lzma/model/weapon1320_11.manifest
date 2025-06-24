@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2954734457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27d06590be71392102629a121fb428dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45c99a2cde68b1496e58d3940cab0c0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa83f6fc2e604541ae635fb9cc76f5d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1320_11/Prefabs/weapon1320_11.prefab
+Dependencies: []

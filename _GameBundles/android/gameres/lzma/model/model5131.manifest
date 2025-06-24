@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2399335297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ad9ac0ceefd646a216862b825f8c3c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 837183e79578636bbd02957977c8b558
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/5131/Prefabs/model5131.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/object_511
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/model5131_mat
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator5131

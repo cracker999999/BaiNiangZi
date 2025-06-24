@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1801905778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aea3a31adbf96aa8afa13fcb14b560bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f292351fce643100be90ce6ba4871e7
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8302/Anim/Animator8302_2.overrideController
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/characteranim/base

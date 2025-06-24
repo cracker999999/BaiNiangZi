@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 180298144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d063ff56f3b87f1f56bd8830b21b13c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8303/Textures/3803_1.png
+- Assets/GameRes/Model/Shenqi/8303/Materials/model8303_5.mat
+- Assets/GameRes/Model/Shenqi/8303/Materials/8303_2.mat
+- Assets/GameRes/Model/Shenqi/8303/Materials/model8303_4.mat
+- Assets/GameRes/Model/Shenqi/8303/Materials/model8303.mat
+- Assets/GameRes/Model/Shenqi/8303/Materials/model8303_1.mat
+- Assets/GameRes/Model/Shenqi/8303/Textures/8303_2.png
+- Assets/GameRes/Model/Shenqi/8303/Textures/model8303.png
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_002
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_001
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_318
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/fire_106

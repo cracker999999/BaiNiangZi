@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2024585818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 388b697b678436f45f5fcc693bfc81b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51282626270218254bd2093f31491ebf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc150d4a1608858428f939892fa15acc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/3116/Prefabs/model3116.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator3116

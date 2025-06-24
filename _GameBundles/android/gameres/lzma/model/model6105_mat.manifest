@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4133847973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 291215382596ea5d0f8f60d97df9984c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/6105/Textures/model6105.png
+- Assets/GameRes/Model/Character/6105/Materials/model6105.mat
+- Assets/GameRes/Model/Character/6105/Materials/model6105_weapon.mat
+- Assets/GameRes/Model/Character/6105/Textures/model6150_weapon.png
+- Assets/GameRes/Model/Character/6105/Textures/model6150_mask.png
+- Assets/GameRes/Model/Character/6105/Textures/model6150_weapon_mask.png
+- Assets/GameRes/Model/Character/6105/Materials/model6105_weapon_mask.mat
+- Assets/GameRes/Model/Character/6105/Materials/model6105_mask.mat
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

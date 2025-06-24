@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2851372170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 080c24d0674b6f9b392b98a4dbd55064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1430/Materials/model1430.mat
+- Assets/GameRes/Model/Character/1430/Materials/model1430_mask.mat
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/model1640_mat

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2445235977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 764e429b30c806b024ffbe6e82d4e3e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1372/Textures/model1372.png
+- Assets/GameRes/Model/Character/1372/Materials/model1372_mask.mat
+- Assets/GameRes/Model/Character/1372/Textures/model1372_mask.png
+- Assets/GameRes/Model/Character/1372/Materials/model1372.mat
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

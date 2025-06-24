@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3326558454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 241c469d71d9c6cc5f3018af6112ce4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6f78336639cd557d0081c593e4c3c8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Other/tasksign/tasksign_eff_0025/Prefabs/tasksign_eff_0025.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/characteranim/base

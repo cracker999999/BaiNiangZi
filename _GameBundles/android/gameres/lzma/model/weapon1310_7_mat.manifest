@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1046983664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16c42030289c5967b25336e8c4f8f775
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1310_7/Materials/weapon1310_7.mat
+- Assets/GameRes/Model/Weapon/1310_7/Textures/weapon1310_7.png
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2096823954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0e7b1d56ff470d4f0e733993f04e4ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bcf538fbee0377c25694cf8a33b79219
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc150d4a1608858428f939892fa15acc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/3108/Prefabs/model3108.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator3108

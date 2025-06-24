@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 378460601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eb61c0655f8ca87626b541eb3a1ab99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/6101/Materials/model6101.mat
+- Assets/GameRes/Model/Character/6101/Materials/model6101_ex.mat
+- Assets/GameRes/Model/Character/6101/Textures/model6101_ex.png
+- Assets/GameRes/Model/Character/6101/Textures/model6101.png
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

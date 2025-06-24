@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2672729866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e838f0ec30f36202a92c6f835c711924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e59b6c9c3f87ec4a59eb079974722e21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8217/Prefabs/model8217.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/model8217_mat
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator8217

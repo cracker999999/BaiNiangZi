@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3205367621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2014d7430d134bdcb010eef224cf767e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8217/Textures/model8217.png
+- Assets/GameRes/Model/Character/8217/Materials/model8217.mat
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader

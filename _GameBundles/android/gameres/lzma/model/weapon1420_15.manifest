@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 152370696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5088d99eaa722de54b47deb857dd901
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bda9a2e258f1cc3c062bf79dbb37894
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa83f6fc2e604541ae635fb9cc76f5d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1420_15/Prefabs/weapon1420_15.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator1220_9

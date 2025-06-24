@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2183752643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ce51a0c80fbf555aeaa208400cb2fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7185c6fcfdae2957988d737a3605cc23
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9462b0bcc5d6994abd8b13bc4479453, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/60207/Prefabs/model60207.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator60205

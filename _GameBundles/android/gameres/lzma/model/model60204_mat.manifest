@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 200519587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a544bdf55ddcdd75a55db7b878ec3f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/60204/Materials/wing_eff_60204_stone.mat
+- Assets/GameRes/Model/Character/60204/Textures/model60204.png
+- Assets/GameRes/Model/Character/60204/Textures/wing_eff_60204_huo.tga
+- Assets/GameRes/Model/Character/60204/Textures/wing_eff_60204_stone.tga
+- Assets/GameRes/Model/Character/60204/Materials/model60204.mat
+- Assets/GameRes/Model/Character/60204/Textures/model60204_mask.png
+- Assets/GameRes/Model/Character/60204/Materials/wing_eff_60204_huo.mat
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_003
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/common/allshader
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_201
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/effect/noise_306

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3575227546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1af1b5dab4fe36896b7a61bec5e88e45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d41c6b355929e103ca4c1af6eae467f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8237/Prefabs/model8237.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/model8237_mat

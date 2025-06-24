@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3958395952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dca6adf5dc4200d85464f46d66ac72b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd2ad2a5d9b7ad80335a3040c21deee4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0147dc234a5ab6e48b8c6847b3a2e09d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/10133/Prefabs/model10133.prefab
+Dependencies:
+- E:/UnityWorkspace/Client5.6.7/_GameBundles/android/gameres/lzma/model/animator5106
