@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3906268090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d30f86eefa2ac08f6024096d01442466
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/2020/tilemap_2020/tile_2020_15_11.png
+Dependencies: []

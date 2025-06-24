@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 130702147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51c3e8b9d9043ba14b86da5eedc6f94e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/ConfigData/se_config_3030.bytes
+Dependencies: []

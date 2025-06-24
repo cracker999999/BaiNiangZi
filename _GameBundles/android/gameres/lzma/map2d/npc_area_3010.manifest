@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1849238040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6113072b549303b4d515053f205ebe86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/ConfigData/npc_area_3010.bytes
+Dependencies: []

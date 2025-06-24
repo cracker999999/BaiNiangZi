@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 968325440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 407eada6b00c730b0a439df2422919dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/ConfigData/dance_1010.bytes
+Dependencies: []

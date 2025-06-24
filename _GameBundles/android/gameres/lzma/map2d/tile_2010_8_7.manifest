@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 671313978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47e5fec9c1fee274273449d46559b1b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/2010/tilemap_2010/tile_2010_8_7.png
+Dependencies: []
